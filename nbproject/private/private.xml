@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/AYUSH%20TYAGI/Desktop/Web_Advance/TechBlog/src/java/com/tech/blog/servlets/AddPost.java</file>
+            <file>file:/C:/Users/AYUSH%20TYAGI/Desktop/Web_Advance/TechBlog/src/java/com/tech/blog/helper/Helper.java</file>
+            <file>file:/C:/Users/AYUSH%20TYAGI/Desktop/Web_Advance/TechBlog/src/java/com/tech/blog/servlets/LogOut.java</file>
+            <file>file:/C:/Users/AYUSH%20TYAGI/Desktop/Web_Advance/TechBlog/src/java/com/tech/blog/helper/ConnectionProvider.java</file>
+            <file>file:/C:/Users/AYUSH%20TYAGI/Desktop/Web_Advance/TechBlog/web/login_page.jsp</file>
+            <file>file:/C:/Users/AYUSH%20TYAGI/Desktop/Web_Advance/TechBlog/src/java/com/tech/blog/entities/Post.java</file>
+            <file>file:/C:/Users/AYUSH%20TYAGI/Desktop/Web_Advance/TechBlog/src/java/com/tech/blog/servlets/LoginServlet.java</file>
+            <file>file:/C:/Users/AYUSH%20TYAGI/Desktop/Web_Advance/TechBlog/src/java/com/tech/blog/dao/UserDao.java</file>
+            <file>file:/C:/Users/AYUSH%20TYAGI/Desktop/Web_Advance/TechBlog/web/css/mystyle.css</file>
+            <file>file:/C:/Users/AYUSH%20TYAGI/Desktop/Web_Advance/TechBlog/web/normal_navbar.jsp</file>
+            <file>file:/C:/Users/AYUSH%20TYAGI/Desktop/Web_Advance/TechBlog/web/register_page.jsp</file>
+            <file>file:/C:/Users/AYUSH%20TYAGI/Desktop/Web_Advance/TechBlog/src/java/com/tech/blog/dao/PostDao.java</file>
+            <file>file:/C:/Users/AYUSH%20TYAGI/Desktop/Web_Advance/TechBlog/web/profile.jsp</file>
+            <file>file:/C:/Users/AYUSH%20TYAGI/Desktop/Web_Advance/TechBlog/web/index.jsp</file>
+            <file>file:/C:/Users/AYUSH%20TYAGI/Desktop/Web_Advance/TechBlog/src/java/com/tech/blog/entities/Category.java</file>
+            <file>file:/C:/Users/AYUSH%20TYAGI/Desktop/Web_Advance/TechBlog/src/java/com/tech/blog/dao/CategoryDao.java</file>
+            <file>file:/C:/Users/AYUSH%20TYAGI/Desktop/Web_Advance/TechBlog/src/java/com/tech/blog/servlets/RegisterServlet.java</file>
+            <file>file:/C:/Users/AYUSH%20TYAGI/Desktop/Web_Advance/TechBlog/web/error_page.jsp</file>
+            <file>file:/C:/Users/AYUSH%20TYAGI/Desktop/Web_Advance/TechBlog/src/java/com/tech/blog/entities/User.java</file>
+            <file>file:/C:/Users/AYUSH%20TYAGI/Desktop/Web_Advance/TechBlog/web/load_post.jsp</file>
+            <file>file:/C:/Users/AYUSH%20TYAGI/Desktop/Web_Advance/TechBlog/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/AYUSH%20TYAGI/Desktop/Web_Advance/TechBlog/src/java/com/tech/blog/servlets/EditServlet.java</file>
+            <file>file:/C:/Users/AYUSH%20TYAGI/Desktop/Web_Advance/TechBlog/src/java/com/tech/blog/entities/Message.java</file>
+        </group>
+    </open-files>
+</project-private>
